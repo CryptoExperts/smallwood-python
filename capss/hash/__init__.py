@@ -1,0 +1,3 @@
+from .permutation import Permutation, RegularIteratedPermutation, SboxesPermutation, check_perm_exponent
+from .sponge import SpongeHashFunction, MultipleSpongeHashFunction
+from .compression import CompressionFunction, TruncationCompressionFunction, JiveCompressionFunction

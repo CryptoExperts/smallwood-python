@@ -1,0 +1,15 @@
+__pycache__
+last_aux.json
+last_resolved.json
+sig.json
+r1cs-constraints.log
+export.tex
+export.json
+
+smallwood-python.zip
+r1cs-auxiliary-inputs.txt
+r1cs-constraints.txt
+r1cs-constraints.bin
+r1cs-primary-inputs.txt
+r1cs-field.txt
+previous-sig.json

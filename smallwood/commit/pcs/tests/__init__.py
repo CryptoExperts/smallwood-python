@@ -1,0 +1,2 @@
+from .tests_shake import TestTensorBasedPCSWithShake
+from .tests_aohash import TestTensorBasedPCSWithAOHash
